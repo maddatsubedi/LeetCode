@@ -19,7 +19,7 @@ const matrix = [
     [7, 8, 9]
 ];
 
-// Notes || i = matrix[i].length - j - 1 | 
+// Notes || i = matrix[i].length - j - 1 | 2 -> 3 - 2 - 1 = 0
 
 // Notes || 0, 2 : 0, 0 | 1, 2 : 0, 1 | 2, 2 : 0, 2 | [i, j] : [matrix[i].length - j - 1, i] // 90 deg anticlockwise
 
