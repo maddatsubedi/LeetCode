@@ -1,5 +1,3 @@
-const arr = [1, 2, 3, 4];
+const str = "Hello";
 
-arr.splice(1, 1);
-
-console.log(arr);
+console.log('sass'.toUpperCase());
